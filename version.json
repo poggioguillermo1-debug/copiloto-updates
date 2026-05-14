@@ -1,6 +1,6 @@
 {
-  "version_codigo": 5,
-  "version_nombre": "1.0.5",
+  "version_codigo": 4,
+  "version_nombre": "1.0.4",
   "url_apk": "https://github.com/poggioguillermo1-debug/copiloto-updates/releases/download/v1.0.3/copiloto-v1.0.3.apk",
   "obligatoria": false,
   "notas": "Primera versión oficial de Copiloto con actualizaciones remotas."
